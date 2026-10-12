@@ -13,11 +13,11 @@ export const Hero = () => {
       <div className={`transition-all duration-75 ${isFlickering ? 'flicker-active' : 'opacity-100'}`}>
         <div className="flex flex-col items-center text-center select-none">
           {/* First name */}
-          <h1 className="text-hero text-foreground/10 z-0">Khrisna</h1>
+          <h1 className="text-hero text-foreground/10 z-0">Alkamil</h1>
 
           {/* Middle name with avatar overlap */}
           <div className="relative z-10 flex items-center justify-center -my-[3vw]">
-            <span className="text-hero text-foreground/10 absolute">Ari Dwi</span>
+            <span className="text-hero text-foreground/10 absolute">Rifqi al kamil</span>
             <div className="relative group">
               <div className="absolute inset-0 bg-foreground/5 rounded-[2rem] blur-3xl group-hover:bg-foreground/10 transition-colors duration-500" />
               <img
@@ -30,7 +30,7 @@ export const Hero = () => {
           </div>
 
           {/* Last name */}
-          <h1 className="text-hero text-foreground z-20">Khrisna Ari</h1>
+          <h1 className="text-hero text-foreground z-20">Rifqi alkamil</h1>
         </div>
       </div>
 
