@@ -6,10 +6,10 @@ export const AboutSection = () => (
     <div className="grid md:grid-cols-2 gap-10 items-start">
       <div className="space-y-5">
         <p className="text-foreground/90 text-lg leading-relaxed block">
-          Halo, saya Made Khrisna Ari Dwi Payana. Saya pelajar di SMKN 3 Singaraja, jurusan Teknik Jaringan dan Komputer Telekomunikasi (TJKT), dan tinggal di Buleleng, Bali.
+          Halo, saya Rifqi Alkamil. Saya pelajar di SMA MAS AL-MANAR MEDAN, jurusan Ilmu Pengetahuan Sosial (IPS), dan tinggal di Medan Polonia, Medan.
         </p>
         <p className="text-foreground/90 text-lg leading-relaxed block">
-          Saya memiliki hobi bermain bulu tangkis dengan mengikuti ekstrarikurer bola tangkis di sekolah saya untuk meningkatkan skill bermain saya. Saya sangat menyukai dunia teknologi, terutama pemrograman dan jaringan. Selama lebih dari tiga tahun saya aktif di bidang pemrograman dan pengembangan web, serta memiliki sekitar satu tahun pengalaman di bidang jaringan. Fokus saya adalah membuat aplikasi yang bermanfaat, khususnya yang memadukan konsep jaringan dan pemrograman.
+          Saya memiliki hobi memancing, bermain bola, dan bermain game. Saya sangat menyukai dunia teknologi, terutama pemrograman dan jaringan. Selama lebih dari tiga tahun saya lumayan aktif di bidang pemrograman dan pengembangan web, serta memiliki sekitar satu tahun pengalaman di bidang pemrograman. Fokus saya adalah membuat aplikasi dan website yang bermanfaat, khususnya yang memadukan konsep jaringan dan pemrograman.
         </p>
         <div className="grid gap-2 md:grid-cols-2">
           <div className="rounded-xl p-3 surface-glass border border-fg/10">
@@ -44,7 +44,7 @@ export const AboutSection = () => (
           </div>
           <div>
             <p className="text-xs uppercase tracking-wider text-muted-foreground">Personal Brand</p>
-            <p className="text-lg font-semibold text-foreground">khrisna ari dwi payana</p>
+            <p className="text-lg font-semibold text-foreground">rifqi alkamil</p>
           </div>
         </div>
 
@@ -55,7 +55,7 @@ export const AboutSection = () => (
           </div>
           <div className="rounded-xl border border-fg/10 p-3 bg-slate-800/30">
             <dt className="text-xs uppercase tracking-wide text-muted-foreground">Location</dt>
-            <dd className="mt-1 font-medium text-foreground">Singaraja, Bali</dd>
+            <dd className="mt-1 font-medium text-foreground">Medan Polonia, Medan</dd>
           </div>
           <div className="rounded-xl border border-fg/10 p-3 bg-slate-800/30">
             <dt className="text-xs uppercase tracking-wide text-muted-foreground">Best Stack</dt>
